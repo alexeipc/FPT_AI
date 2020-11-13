@@ -1,3 +1,10 @@
+/*
+author: aleksei
+codeforces: alexei_pc
+facebook: https://www.facebook.com/profile.php?id=100041615542673
+*/
+
+
 #include <iostream>
 #include <sstream>
 #include <errno.h>
